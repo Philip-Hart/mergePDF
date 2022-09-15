@@ -1,3 +1,3 @@
 /pdfs
-/vars
-.env
+.DS_Store
+/env
