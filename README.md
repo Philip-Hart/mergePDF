@@ -10,7 +10,7 @@ Move merge.py to the directory where you would like to merge pdfs.
 Pdfs you want to merge need to be organized within their own folder
 There are two user inputs required: one for where the pdfs you would like to merge are stored, and one where you would like the merged pdf to be stored. I have included examples of appropriate inpute below.
 1. Defining the input path:
-> Insert path to pdfs as [dir]/ (Must be in parent dir of [dir]: **2022_pdfs/**  
+> Insert path to pdfs as [dir]/ (Must be in parent dir of [dir]: **2022_pdfs/**   
 or 
 > Insert path to pdfs as [dir]/ (Must be in parent dir of [dir]: **2022/Fall_pdfs/**  
 
