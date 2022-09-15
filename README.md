@@ -1,5 +1,5 @@
 # MergePDF: A command line tool for merging PDFs
 
-## Requirements:
+### Requirements:
 1. PyPDF2
 
