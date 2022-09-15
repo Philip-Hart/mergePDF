@@ -5,11 +5,12 @@
 Since this is a simple script with one dependency, PyPDF2 may be installed globally using:
 > pip install PyPDF2
 
+### Setup:
+1. Clone repository and install PyPDF2
+2. Move merge.py to the directory where you would like to merge pdfs. Pdfs you want to merge need to be organized within their own folder.
+3. There are two user inputs required: one for where the pdfs you would like to merge are stored, and one where you would like the merged pdf to be stored. I have included examples of appropriate inputs below.
 ### Details:
-Move merge.py to the directory where you would like to merge pdfs. 
-Pdfs you want to merge need to be organized within their own folder
-There are two user inputs required: one for where the pdfs you would like to merge are stored, and one where you would like the merged pdf to be stored. I have included examples of appropriate inpute below.
-1. Defining the input path:
+1. Defining the path to pdfs:
 > Insert path to pdfs as [dir]/ (Must be in parent dir of [dir]: **2022_pdfs/**   
 
 or 
